@@ -10,7 +10,7 @@ Say goodbye to weak passwords! Create secure ones instantly 🛡️
 - Custom number of letters, numbers, and symbols
 - Generates strong, secure passwords
 - Easy to use
-  
+  image.png
 
 
 
